@@ -1,7 +1,5 @@
-- 👋 Hi, I'm Yaren
-- 👀 I’m interested in ...
+- 👋 Hi, I'm Yaren.
 - 🌱 I’m currently learning Java and C#.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yarengnd20@hotmail.com
 
 <!---
