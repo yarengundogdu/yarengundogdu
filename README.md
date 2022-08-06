@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Yaren.
 - 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning Java and C#.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me yarengnd20@hotmail.com
 
 <!---
