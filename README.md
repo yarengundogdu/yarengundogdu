@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Yaren.
 - 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning C#.
-- 📫 How to reach me yarengnd20@hotmail.com
+- 🌱 I’m currently learning C#. 
 
 <!---
 yarengundogdu/yarengundogdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
